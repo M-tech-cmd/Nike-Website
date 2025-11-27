@@ -4,6 +4,15 @@ A fully responsive, modern **Nike Landing Page** built with clean UI components,
 
 ---
 
+## 📸 Preview
+
+![image alt](https://github.com/M-tech-cmd/Nike-Website/blob/13bb0148b9d7a8890e312d59bb024628d7cd0a3c/src/assets/images/preview1.jpg)
+![image alt](https://github.com/M-tech-cmd/Nike-Website/blob/54eab630f7047a127f8635daf72e4c4c57b30967/src/assets/images/preview2.jpg)
+![image alt](https://github.com/M-tech-cmd/Nike-Website/blob/54eab630f7047a127f8635daf72e4c4c57b30967/src/assets/images/preview3.jpg)
+![image alt](https://github.com/M-tech-cmd/Nike-Website/blob/54eab630f7047a127f8635daf72e4c4c57b30967/src/assets/images/preview4.jpg)
+![image alt](https://github.com/M-tech-cmd/Nike-Website/blob/54eab630f7047a127f8635daf72e4c4c57b30967/src/assets/images/preview5.jpg)
+![image alt](https://github.com/M-tech-cmd/Nike-Website/blob/54eab630f7047a127f8635daf72e4c4c57b30967/src/assets/images/preview6.jpg)
+
 ## 📌 Overview
 
 This project is a **Nike-inspired landing page** designed with modern front‑end practices. It includes a sleek hero section, animated shoe cards, featured products, and multiple UI sections that come together to form a high‑end marketing page.
