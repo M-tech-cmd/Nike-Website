@@ -1,49 +1,44 @@
-👟  Nike Landing Page — Modern React UI
+# 👟 Nike Landing Page — Modern React UI
 
-A fully responsive, modern Nike Landing Page built with clean UI components, animations, and a premium layout. The project walks through the complete build from setup to deployment while creating reusable components and sections.
+A fully responsive, modern **Nike Landing Page** built with clean UI components, animations, and a premium layout. The project walks through the complete build from setup to deployment while creating reusable components and sections.
 
-📌 Overview
+---
 
-This project is a Nike-inspired landing page designed with modern front‑end practices. It includes a sleek hero section, animated shoe cards, featured products, and multiple UI sections that come together to form a high‑end marketing page.
+## 📌 Overview
 
-✨ Features
+This project is a **Nike-inspired landing page** designed with modern front‑end practices. It includes a sleek hero section, animated shoe cards, featured products, and multiple UI sections that come together to form a high‑end marketing page.
 
-⚡ Beautiful Hero Section with CTA
+---
 
-👟 Dynamic Shoe Card component
+## ✨ Features
 
-⭐ Popular Products Showcase
+* ⚡ **Beautiful Hero Section** with CTA
+* 👟 **Dynamic Shoe Card component**
+* ⭐ **Popular Products Showcase**
+* 🛡 **Why Choose Us (Super Quality)** section
+* 🔧 **Services / Benefits section**
+* 🎁 **Special Offer Banner**
+* 💬 **Customer Reviews** with ratings
+* ✉️ **Subscribe (Newsletter)** section
+* 🦶 **Fully responsive footer**
+* 📱 **Mobile‑first responsive UI**
+* 🎨 Consistent brand styling inspired by Nike
 
-🛡 Why Choose Us (Super Quality) section
+---
 
-🔧 Services / Benefits section
+## 🛠️ Tech Stack
 
-🎁 Special Offer Banner
+* **React.js**
+* **Tailwind CSS**
+* **Vite** (or CRA if preferred)
+* **Reusable UI components**
+* **Framer Motion** (optional for animations)
 
-💬 Customer Reviews with ratings
+---
 
-✉️ Subscribe (Newsletter) section
+## 📁 Project Structure
 
-🦶 Fully responsive footer
-
-📱 Mobile‑first responsive UI
-
-🎨 Consistent brand styling inspired by Nike
-
-🛠️ Tech Stack
-
-React.js
-
-Tailwind CSS
-
-Vite (or CRA if preferred)
-
-Reusable UI components
-
-Framer Motion (optional for animations)
-
-📁 Project Structure
-
+```
 nike-landing-page/
 ├─ src/
 │  ├─ components/      # Reusable UI components
@@ -54,48 +49,61 @@ nike-landing-page/
 ├─ public/
 ├─ package.json
 └─ README.md
+```
 
-⚙️ Installation
+---
 
+## ⚙️ Installation
+
+```bash
 git clone https://github.com/yourusername/nike-landing-page.git
 cd nike-landing-page
 npm install
 npm run dev
+```
 
 Then open:
 
+```
 http://localhost:5173
+```
 
-📸 Screenshots
+---
 
-Add your UI screenshots here (hero, product grid, reviews, etc.)
+## 📸 Screenshots
+
+*Add your UI screenshots here (hero, product grid, reviews, etc.)*
 
 Example:
 
+```md
 ![Hero Preview](./public/hero.jpg)
 ![Popular Products](./public/popular-products.jpg)
+```
 
-🚀 Deployment
+---
+
+## 🚀 Deployment
 
 You can deploy this project on:
 
-Vercel
+* **Vercel**
+* **Netlify**
+* **GitHub Pages (Vite config required)**
 
-Netlify
+---
 
-GitHub Pages (Vite config required)
+## 📌 Future Improvements
 
-📌 Future Improvements
+* Dark / Light mode
+* Add product filtering
+* Add animations to sections
+* Multi‑language support
 
-Dark / Light mode
+---
 
-Add product filtering
-
-Add animations to sections
-
-Multi‑language support
-
-📝 License
+## 📝 License
 
 MIT © M‑tech‑cmd
+
 
