@@ -70,19 +70,6 @@ http://localhost:5173
 
 ---
 
-## 📸 Screenshots
-
-*Add your UI screenshots here (hero, product grid, reviews, etc.)*
-
-Example:
-
-```md
-![Hero Preview](./public/hero.jpg)
-![Popular Products](./public/popular-products.jpg)
-```
-
----
-
 ## 🚀 Deployment
 
 You can deploy this project on:
